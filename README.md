@@ -5,66 +5,51 @@ About
 Designing embedded systems for consumer health & fitness devices
 Strong focus on low-power optimization and wireless communication
 Interested in IoT security, secure firmware, and device authentication
+
 Embedded & Firmware
 
-
-
-
-
-
-
-
-
-
-Low-power design • Wireless sensor networks • BLE 5.x • Sub-1 GHz RF • Wi-Fi • Bare-metal & RTOS
+• Low-power design 
+• Wireless sensor networks 
+• BLE 5.x 
+• Sub-1 GHz RF 
+• Wi-Fi 
+• RTOS(Zephyr, TiRTOS)
 
 Hardware
 
-
-
-
-
-
-Schematic design • Board bring-up • Sensor integration • Power management
+• Schematic design 
+• Board bring-up 
+• Sensor integration 
+• Power management
 
 IoT & Security
 
-
-
-
-
-Secure communication • Firmware hardening • OTA updates • Device provisioning & authentication • Debugging (JTAG/SWD)
+• Secure communication 
+• Firmware hardening 
+• Provisioning 
+• Debugging (JTAG/SWD)
 
 Frontend
 
-
-
-
-
+• JavaScript
+• TypeScript
+• React Native
+• Expo
 
 Backend
 
-
-
-
-
-
-
-
-
-Tools
-
-
-
-
-
+• Java
+• SpringBoot
+• SQL
+• SQLite
+• Firebase
+• RESTAPIs
 
 Projects
 
-(Add a few strong projects here — quality over quantity)
+[#TODO] — 
+[#TODO] — 
 
-[Project Name] — short, sharp description
-[Project Name] — highlight impact or technical challenge
 Contact
-LinkedIn: [your-link]
-Email: [your-email]
+LinkedIn: www.linkedin.com/in/fabian-gryga
+Email: fabian.gryga@o2.pl
