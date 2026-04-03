@@ -1,57 +1,99 @@
-## Hi, I'm Fabian 👋
-Embedded & IoT Engineer focused on low-power systems, wireless communication, and IoT cybersecurity.
+<h1 align="center">Hi 👋, I'm Fabian</h1>
+<h3 align="center">Embedded & IoT Engineer focused on low-power systems, wireless communication, and IoT cybersecurity.</h3>
 
-About
-Designing embedded systems for consumer health & fitness devices
-Strong focus on low-power optimization and wireless communication
-Interested in IoT security, secure firmware, and device authentication
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabian-gryga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fabian%20Gryga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fabian.gryga@o2.pl">
+    <img src="https://img.shields.io/badge/Email-fabian.gryga%40o2.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Embedded & Firmware
+---
 
-Low-power design 
-• Wireless sensor networks 
-• BLE 5.x 
-• Sub-1 GHz RF 
-• Wi-Fi 
-• RTOS(Zephyr, TiRTOS)
+<h3 align="left">About Me</h3>
 
-Hardware
+<ul>
+  <li> Embedded & IoT engineer with a strong focus on <b>low-power design</b></li>
+  <li> Experienced in <b>BLE 5.x</b>, <b>Sub-1 GHz RF</b>, <b>Wi-Fi</b>, and <b>wireless sensor networks</b></li>
+  <li> Interested in <b>IoT cybersecurity</b>, secure communication, and firmware hardening</li>
+  <li> Worked mostly on <b>consumer fitness and health</b> products</li>
+  <li> Comfortable across firmware, hardware, mobile, and backend development</li>
+</ul>
 
-Schematic design 
-• Board bring-up 
-• Sensor integration 
-• Power management
+<h3 align="left">Languages and Tools</h3>
 
-IoT & Security
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+</p>
 
-Secure communication 
-• Firmware hardening 
-• Provisioning 
-• Debugging (JTAG/SWD)
+---
 
-Frontend
+<h3 align="left">Embedded & Firmware</h3>
+<p>
+  Low-power design • Wireless sensor networks • BLE 5.x • Sub-1 GHz RF • Wi-Fi • RTOS (Zephyr, TI-RTOS) • STM32 • nRF52 • CC13xx
+</p>
 
-JavaScript
-• TypeScript
-• React Native
-• Expo
+<h3 align="left">Hardware</h3>
+<p>
+  Schematic design • Board bring-up • Sensor integration • PCB design • Power management
+</p>
 
-Backend
+<h3 align="left">IoT & Security</h3>
+<p>
+  Secure communication • Firmware hardening • Provisioning • Debugging (JTAG/SWD)
+</p>
 
-Java
-• SpringBoot
-• SQL
-• SQLite
-• Firebase
-• RESTAPIs
+<h3 align="left">Frontend</h3>
+<p>
+  React Native • Expo • TypeScript • JavaScript
+</p>
 
-Projects
+<h3 align="left">Backend</h3>
+<p>
+  Java Spring Boot • SQL • SQLite • Firebase • REST APIs
+</p>
 
-[#TODO] — 
-[#TODO] — 
+---
 
-Contact
+<h3 align="left">Projects</h3>
 
-LinkedIn: www.linkedin.com/in/fabian-gryga
+<ul>
+  <li><b>#TODO Project Name</b> — </li>
+  <li><b>#TODO Project Name</b> — </li>
+</ul>
 
-Email: fabian.gryga@o2.pl
+---
