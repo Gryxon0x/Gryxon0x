@@ -8,7 +8,7 @@ Interested in IoT security, secure firmware, and device authentication
 
 Embedded & Firmware
 
-• Low-power design 
+Low-power design 
 • Wireless sensor networks 
 • BLE 5.x 
 • Sub-1 GHz RF 
@@ -17,28 +17,28 @@ Embedded & Firmware
 
 Hardware
 
-• Schematic design 
+Schematic design 
 • Board bring-up 
 • Sensor integration 
 • Power management
 
 IoT & Security
 
-• Secure communication 
+Secure communication 
 • Firmware hardening 
 • Provisioning 
 • Debugging (JTAG/SWD)
 
 Frontend
 
-• JavaScript
+JavaScript
 • TypeScript
 • React Native
 • Expo
 
 Backend
 
-• Java
+Java
 • SpringBoot
 • SQL
 • SQLite
@@ -51,5 +51,7 @@ Projects
 [#TODO] — 
 
 Contact
+
 LinkedIn: www.linkedin.com/in/fabian-gryga
+
 Email: fabian.gryga@o2.pl
