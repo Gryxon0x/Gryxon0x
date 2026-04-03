@@ -1,16 +1,70 @@
-## Hi there 👋
+## Hi, I'm Fabian 👋
+Embedded & IoT Engineer focused on low-power systems, wireless communication, and IoT cybersecurity.
 
-<!--
-**Gryxon0x/Gryxon0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About
+Designing embedded systems for consumer health & fitness devices
+Strong focus on low-power optimization and wireless communication
+Interested in IoT security, secure firmware, and device authentication
+Embedded & Firmware
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+Low-power design • Wireless sensor networks • BLE 5.x • Sub-1 GHz RF • Wi-Fi • Bare-metal & RTOS
+
+Hardware
+
+
+
+
+
+
+Schematic design • Board bring-up • Sensor integration • Power management
+
+IoT & Security
+
+
+
+
+
+Secure communication • Firmware hardening • OTA updates • Device provisioning & authentication • Debugging (JTAG/SWD)
+
+Frontend
+
+
+
+
+
+
+Backend
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+
+Projects
+
+(Add a few strong projects here — quality over quantity)
+
+[Project Name] — short, sharp description
+[Project Name] — highlight impact or technical challenge
+Contact
+LinkedIn: [your-link]
+Email: [your-email]
