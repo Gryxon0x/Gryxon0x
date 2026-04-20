@@ -92,8 +92,8 @@
 <h3 align="left">Projects</h3>
 
 <ul>
-  <li><b>#TODO Project Name</b> — </li>
-  <li><b>#TODO Project Name</b> — </li>
+  <li><b>Health Monitoring System</b> — </li>
+  <li><b>Secure provisioning</b> — </li>
 </ul>
 
 ---
