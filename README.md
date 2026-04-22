@@ -93,7 +93,7 @@
 
 <ul>
   <li><b>Health Monitoring System</b> — </li>
-  <li><b>Secure provisioning</b> — </li>
+  <li><b>Secure provisioning</b> — Secure provisioning and authenticated control framework for an nRF52840-based IoT device over BLE, featuring separate provisioning and operational GATT services, explicit device state management, and a foundation for challenge-response authentication.</li>
 </ul>
 
 ---
