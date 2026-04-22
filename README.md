@@ -92,7 +92,7 @@
 <h3 align="left">Projects</h3>
 
 <ul>
-  <li><b>Health Monitoring System</b> — </li>
+  <li><b>Health Monitoring System</b> — Smart band-type device responsible for monitoring vitals based on CC1352R1F3 able to communicate with custom app over BLE. Focus on duty cycling, event management, low energy design. Project involves both software and hardware design and implementation.</li>
   <li><b>Secure provisioning</b> — Secure provisioning and authenticated control framework for an nRF52840-based IoT device over BLE, featuring separate provisioning and operational GATT services, explicit device state management, and a foundation for challenge-response authentication.</li>
 </ul>
 
